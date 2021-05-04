@@ -236,6 +236,7 @@ header .intro-text {
 #about p {
 	line-height: 24px;
 	margin: 15px 0 30px;
+	color:#000000;
 }
 /* Menu Section */
 #restaurant-menu {
